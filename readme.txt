@@ -1,0 +1,1 @@
+-> This is final software which has Timelapse creating software, moving images functionalities.
